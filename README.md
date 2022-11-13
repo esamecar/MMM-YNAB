@@ -22,9 +22,9 @@ var config = {
             config: {
                 token: "ADD_YNAB_TOKEN_HERE",
                 categories: [ "Household", "Pets", "Grocery", "Kids Clothes", "Restaurants", "Lunch", "Spontaneous Fun" ],
-                // budgetId: 3d894cb9-d783-4bd0-a9a6-f7a3c79becc1, // Optional
+                // budgetId: "3d894cb9-d783-4bd0-a9a6-f7a3c79becc1" // Optional
             }
-        },
+        }
     ]
 }
 ```
